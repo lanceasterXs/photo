@@ -1,0 +1,199 @@
+@import "tailwindcss";
+
+/* ── Base ── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* Dark mode body styles */
+.dark body,
+html.dark body {
+  background-color: #0a0a0a;
+  color: #e8e2d9;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(150,150,150,0.35); border-radius: 2px; }
+.dark ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); }
+
+/* ── Font helpers ── */
+.font-cormorant { font-family: 'Cormorant Garamond', 'Georgia', serif; }
+.font-noto      { font-family: 'Noto Serif SC', 'STSong', serif; }
+.font-inter     { font-family: 'Inter', system-ui, sans-serif; }
+
+/* ── Hero Slideshow ── */
+@keyframes kenBurns {
+  0%   { transform: scale(1); }
+  100% { transform: scale(1.10); }
+}
+.hero-slide {
+  animation: kenBurns 10s ease-out forwards;
+}
+
+/* ── General animations ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInLeft {
+  from { opacity: 0; transform: translateX(-28px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(36px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(24px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+
+/* ── Scroll reveal ── */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ── Masonry / Waterfall ── */
+.masonry-grid {
+  columns: 2;
+  column-gap: 8px;
+}
+@media (min-width: 640px) {
+  .masonry-grid { columns: 2; column-gap: 10px; }
+}
+@media (min-width: 768px) {
+  .masonry-grid { columns: 3; column-gap: 12px; }
+}
+@media (min-width: 1280px) {
+  .masonry-grid { columns: 4; column-gap: 14px; }
+}
+
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 8px;
+  overflow: hidden;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  display: block;
+}
+@media (min-width: 768px) {
+  .masonry-item { margin-bottom: 12px; }
+}
+
+.masonry-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+.masonry-item:hover img {
+  transform: scale(1.04);
+}
+
+/* ── Photo hover overlay ── */
+.photo-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0);
+  transition: background 0.35s ease;
+  pointer-events: none;
+}
+.masonry-item:hover .photo-overlay {
+  background: rgba(0,0,0,0.06);
+}
+
+/* ── Lightbox ── */
+.lightbox-overlay {
+  backdrop-filter: blur(18px) saturate(0.7) brightness(0.85);
+  -webkit-backdrop-filter: blur(18px) saturate(0.7) brightness(0.85);
+}
+
+/* ── Marquee ── */
+@keyframes marquee {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 50s linear infinite;
+  will-change: transform;
+}
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+/* ── Navbar glass ── */
+.navbar-glass {
+  backdrop-filter: blur(24px) saturate(1.6);
+  -webkit-backdrop-filter: blur(24px) saturate(1.6);
+}
+
+/* ── Skeleton shimmer ── */
+.img-skeleton {
+  background: linear-gradient(90deg, #ececec 25%, #f5f5f5 50%, #ececec 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite;
+}
+.dark .img-skeleton,
+html.dark .img-skeleton {
+  background: linear-gradient(90deg, #1c1c1c 25%, #252525 50%, #1c1c1c 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite;
+}
+
+/* ── Section divider line ── */
+.section-line {
+  width: 36px;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.35;
+}
+
+/* ── Hero tagline ── */
+.hero-tagline {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+}
+
+/* ── Tab strip hide scrollbar ── */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+
+/* ── Fade-in for animations used inline ── */
+@keyframes fadeInAnim {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
