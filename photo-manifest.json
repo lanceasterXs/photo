@@ -1,497 +1,497 @@
 {
   "hero": [
-    "/photos/hero/h1.jpg",
-    "/photos/hero/h2.jpg",
-    "/photos/hero/h3.jpg",
-    "/photos/hero/h4.jpg",
-    "/photos/hero/h5.jpg",
-    "/photos/hero/h6.jpg"
+    "photos/hero/h1.jpg",
+    "photos/hero/h2.jpg",
+    "photos/hero/h3.jpg",
+    "photos/hero/h4.jpg",
+    "photos/hero/h5.jpg",
+    "photos/hero/h6.jpg"
   ],
   "categories": {
     "portraits": [
       {
-        "full": "/photos/portraits/p-1.jpg",
-        "thumb": "/photos/portraits/thumbs/p-1.jpg"
+        "full": "photos/portraits/p-1.jpg",
+        "thumb": "photos/portraits/thumbs/p-1.jpg"
       },
       {
-        "full": "/photos/portraits/p-10.jpg",
-        "thumb": "/photos/portraits/thumbs/p-10.jpg"
+        "full": "photos/portraits/p-10.jpg",
+        "thumb": "photos/portraits/thumbs/p-10.jpg"
       },
       {
-        "full": "/photos/portraits/p-11.jpg",
-        "thumb": "/photos/portraits/thumbs/p-11.jpg"
+        "full": "photos/portraits/p-11.jpg",
+        "thumb": "photos/portraits/thumbs/p-11.jpg"
       },
       {
-        "full": "/photos/portraits/p-12.jpg",
-        "thumb": "/photos/portraits/thumbs/p-12.jpg"
+        "full": "photos/portraits/p-12.jpg",
+        "thumb": "photos/portraits/thumbs/p-12.jpg"
       },
       {
-        "full": "/photos/portraits/p-13.jpg",
-        "thumb": "/photos/portraits/thumbs/p-13.jpg"
+        "full": "photos/portraits/p-13.jpg",
+        "thumb": "photos/portraits/thumbs/p-13.jpg"
       },
       {
-        "full": "/photos/portraits/p-14.jpg",
-        "thumb": "/photos/portraits/thumbs/p-14.jpg"
+        "full": "photos/portraits/p-14.jpg",
+        "thumb": "photos/portraits/thumbs/p-14.jpg"
       },
       {
-        "full": "/photos/portraits/p-15.jpg",
-        "thumb": "/photos/portraits/thumbs/p-15.jpg"
+        "full": "photos/portraits/p-15.jpg",
+        "thumb": "photos/portraits/thumbs/p-15.jpg"
       },
       {
-        "full": "/photos/portraits/p-16.jpg",
-        "thumb": "/photos/portraits/thumbs/p-16.jpg"
+        "full": "photos/portraits/p-16.jpg",
+        "thumb": "photos/portraits/thumbs/p-16.jpg"
       },
       {
-        "full": "/photos/portraits/p-17.jpg",
-        "thumb": "/photos/portraits/thumbs/p-17.jpg"
+        "full": "photos/portraits/p-17.jpg",
+        "thumb": "photos/portraits/thumbs/p-17.jpg"
       },
       {
-        "full": "/photos/portraits/p-18.jpg",
-        "thumb": "/photos/portraits/thumbs/p-18.jpg"
+        "full": "photos/portraits/p-18.jpg",
+        "thumb": "photos/portraits/thumbs/p-18.jpg"
       },
       {
-        "full": "/photos/portraits/p-19.jpg",
-        "thumb": "/photos/portraits/thumbs/p-19.jpg"
+        "full": "photos/portraits/p-19.jpg",
+        "thumb": "photos/portraits/thumbs/p-19.jpg"
       },
       {
-        "full": "/photos/portraits/p-2.jpg",
-        "thumb": "/photos/portraits/thumbs/p-2.jpg"
+        "full": "photos/portraits/p-2.jpg",
+        "thumb": "photos/portraits/thumbs/p-2.jpg"
       },
       {
-        "full": "/photos/portraits/p-20.jpg",
-        "thumb": "/photos/portraits/thumbs/p-20.jpg"
+        "full": "photos/portraits/p-20.jpg",
+        "thumb": "photos/portraits/thumbs/p-20.jpg"
       },
       {
-        "full": "/photos/portraits/p-21.jpg",
-        "thumb": "/photos/portraits/thumbs/p-21.jpg"
+        "full": "photos/portraits/p-21.jpg",
+        "thumb": "photos/portraits/thumbs/p-21.jpg"
       },
       {
-        "full": "/photos/portraits/p-22.jpg",
-        "thumb": "/photos/portraits/thumbs/p-22.jpg"
+        "full": "photos/portraits/p-22.jpg",
+        "thumb": "photos/portraits/thumbs/p-22.jpg"
       },
       {
-        "full": "/photos/portraits/p-23.jpg",
-        "thumb": "/photos/portraits/thumbs/p-23.jpg"
+        "full": "photos/portraits/p-23.jpg",
+        "thumb": "photos/portraits/thumbs/p-23.jpg"
       },
       {
-        "full": "/photos/portraits/p-24.jpg",
-        "thumb": "/photos/portraits/thumbs/p-24.jpg"
+        "full": "photos/portraits/p-24.jpg",
+        "thumb": "photos/portraits/thumbs/p-24.jpg"
       },
       {
-        "full": "/photos/portraits/p-25.jpg",
-        "thumb": "/photos/portraits/thumbs/p-25.jpg"
+        "full": "photos/portraits/p-25.jpg",
+        "thumb": "photos/portraits/thumbs/p-25.jpg"
       },
       {
-        "full": "/photos/portraits/p-26.jpg",
-        "thumb": "/photos/portraits/thumbs/p-26.jpg"
+        "full": "photos/portraits/p-26.jpg",
+        "thumb": "photos/portraits/thumbs/p-26.jpg"
       },
       {
-        "full": "/photos/portraits/p-27.jpg",
-        "thumb": "/photos/portraits/thumbs/p-27.jpg"
+        "full": "photos/portraits/p-27.jpg",
+        "thumb": "photos/portraits/thumbs/p-27.jpg"
       },
       {
-        "full": "/photos/portraits/p-28.jpg",
-        "thumb": "/photos/portraits/thumbs/p-28.jpg"
+        "full": "photos/portraits/p-28.jpg",
+        "thumb": "photos/portraits/thumbs/p-28.jpg"
       },
       {
-        "full": "/photos/portraits/p-29.jpg",
-        "thumb": "/photos/portraits/thumbs/p-29.jpg"
+        "full": "photos/portraits/p-29.jpg",
+        "thumb": "photos/portraits/thumbs/p-29.jpg"
       },
       {
-        "full": "/photos/portraits/p-3.jpg",
-        "thumb": "/photos/portraits/thumbs/p-3.jpg"
+        "full": "photos/portraits/p-3.jpg",
+        "thumb": "photos/portraits/thumbs/p-3.jpg"
       },
       {
-        "full": "/photos/portraits/p-30.jpg",
-        "thumb": "/photos/portraits/thumbs/p-30.jpg"
+        "full": "photos/portraits/p-30.jpg",
+        "thumb": "photos/portraits/thumbs/p-30.jpg"
       },
       {
-        "full": "/photos/portraits/p-31.jpg",
-        "thumb": "/photos/portraits/thumbs/p-31.jpg"
+        "full": "photos/portraits/p-31.jpg",
+        "thumb": "photos/portraits/thumbs/p-31.jpg"
       },
       {
-        "full": "/photos/portraits/p-32.jpg",
-        "thumb": "/photos/portraits/thumbs/p-32.jpg"
+        "full": "photos/portraits/p-32.jpg",
+        "thumb": "photos/portraits/thumbs/p-32.jpg"
       },
       {
-        "full": "/photos/portraits/p-33.jpg",
-        "thumb": "/photos/portraits/thumbs/p-33.jpg"
+        "full": "photos/portraits/p-33.jpg",
+        "thumb": "photos/portraits/thumbs/p-33.jpg"
       },
       {
-        "full": "/photos/portraits/p-34.jpg",
-        "thumb": "/photos/portraits/thumbs/p-34.jpg"
+        "full": "photos/portraits/p-34.jpg",
+        "thumb": "photos/portraits/thumbs/p-34.jpg"
       },
       {
-        "full": "/photos/portraits/p-35.jpg",
-        "thumb": "/photos/portraits/thumbs/p-35.jpg"
+        "full": "photos/portraits/p-35.jpg",
+        "thumb": "photos/portraits/thumbs/p-35.jpg"
       },
       {
-        "full": "/photos/portraits/p-36.jpg",
-        "thumb": "/photos/portraits/thumbs/p-36.jpg"
+        "full": "photos/portraits/p-36.jpg",
+        "thumb": "photos/portraits/thumbs/p-36.jpg"
       },
       {
-        "full": "/photos/portraits/p-37.jpg",
-        "thumb": "/photos/portraits/thumbs/p-37.jpg"
+        "full": "photos/portraits/p-37.jpg",
+        "thumb": "photos/portraits/thumbs/p-37.jpg"
       },
       {
-        "full": "/photos/portraits/p-38.jpg",
-        "thumb": "/photos/portraits/thumbs/p-38.jpg"
+        "full": "photos/portraits/p-38.jpg",
+        "thumb": "photos/portraits/thumbs/p-38.jpg"
       },
       {
-        "full": "/photos/portraits/p-39.jpg",
-        "thumb": "/photos/portraits/thumbs/p-39.jpg"
+        "full": "photos/portraits/p-39.jpg",
+        "thumb": "photos/portraits/thumbs/p-39.jpg"
       },
       {
-        "full": "/photos/portraits/p-4.jpg",
-        "thumb": "/photos/portraits/thumbs/p-4.jpg"
+        "full": "photos/portraits/p-4.jpg",
+        "thumb": "photos/portraits/thumbs/p-4.jpg"
       },
       {
-        "full": "/photos/portraits/p-40.jpg",
-        "thumb": "/photos/portraits/thumbs/p-40.jpg"
+        "full": "photos/portraits/p-40.jpg",
+        "thumb": "photos/portraits/thumbs/p-40.jpg"
       },
       {
-        "full": "/photos/portraits/p-41.jpg",
-        "thumb": "/photos/portraits/thumbs/p-41.jpg"
+        "full": "photos/portraits/p-41.jpg",
+        "thumb": "photos/portraits/thumbs/p-41.jpg"
       },
       {
-        "full": "/photos/portraits/p-42.jpg",
-        "thumb": "/photos/portraits/thumbs/p-42.jpg"
+        "full": "photos/portraits/p-42.jpg",
+        "thumb": "photos/portraits/thumbs/p-42.jpg"
       },
       {
-        "full": "/photos/portraits/p-43.jpg",
-        "thumb": "/photos/portraits/thumbs/p-43.jpg"
+        "full": "photos/portraits/p-43.jpg",
+        "thumb": "photos/portraits/thumbs/p-43.jpg"
       },
       {
-        "full": "/photos/portraits/p-44.jpg",
-        "thumb": "/photos/portraits/thumbs/p-44.jpg"
+        "full": "photos/portraits/p-44.jpg",
+        "thumb": "photos/portraits/thumbs/p-44.jpg"
       },
       {
-        "full": "/photos/portraits/p-45.jpg",
-        "thumb": "/photos/portraits/thumbs/p-45.jpg"
+        "full": "photos/portraits/p-45.jpg",
+        "thumb": "photos/portraits/thumbs/p-45.jpg"
       },
       {
-        "full": "/photos/portraits/p-46.jpg",
-        "thumb": "/photos/portraits/thumbs/p-46.jpg"
+        "full": "photos/portraits/p-46.jpg",
+        "thumb": "photos/portraits/thumbs/p-46.jpg"
       },
       {
-        "full": "/photos/portraits/p-47.jpg",
-        "thumb": "/photos/portraits/thumbs/p-47.jpg"
+        "full": "photos/portraits/p-47.jpg",
+        "thumb": "photos/portraits/thumbs/p-47.jpg"
       },
       {
-        "full": "/photos/portraits/p-48.jpg",
-        "thumb": "/photos/portraits/thumbs/p-48.jpg"
+        "full": "photos/portraits/p-48.jpg",
+        "thumb": "photos/portraits/thumbs/p-48.jpg"
       },
       {
-        "full": "/photos/portraits/p-49.jpg",
-        "thumb": "/photos/portraits/thumbs/p-49.jpg"
+        "full": "photos/portraits/p-49.jpg",
+        "thumb": "photos/portraits/thumbs/p-49.jpg"
       },
       {
-        "full": "/photos/portraits/p-5.jpg",
-        "thumb": "/photos/portraits/thumbs/p-5.jpg"
+        "full": "photos/portraits/p-5.jpg",
+        "thumb": "photos/portraits/thumbs/p-5.jpg"
       },
       {
-        "full": "/photos/portraits/p-50.jpg",
-        "thumb": "/photos/portraits/thumbs/p-50.jpg"
+        "full": "photos/portraits/p-50.jpg",
+        "thumb": "photos/portraits/thumbs/p-50.jpg"
       },
       {
-        "full": "/photos/portraits/p-51.jpg",
-        "thumb": "/photos/portraits/thumbs/p-51.jpg"
+        "full": "photos/portraits/p-51.jpg",
+        "thumb": "photos/portraits/thumbs/p-51.jpg"
       },
       {
-        "full": "/photos/portraits/p-52.jpg",
-        "thumb": "/photos/portraits/thumbs/p-52.jpg"
+        "full": "photos/portraits/p-52.jpg",
+        "thumb": "photos/portraits/thumbs/p-52.jpg"
       },
       {
-        "full": "/photos/portraits/p-53.jpg",
-        "thumb": "/photos/portraits/thumbs/p-53.jpg"
+        "full": "photos/portraits/p-53.jpg",
+        "thumb": "photos/portraits/thumbs/p-53.jpg"
       },
       {
-        "full": "/photos/portraits/p-54.jpg",
-        "thumb": "/photos/portraits/thumbs/p-54.jpg"
+        "full": "photos/portraits/p-54.jpg",
+        "thumb": "photos/portraits/thumbs/p-54.jpg"
       },
       {
-        "full": "/photos/portraits/p-55.jpg",
-        "thumb": "/photos/portraits/thumbs/p-55.jpg"
+        "full": "photos/portraits/p-55.jpg",
+        "thumb": "photos/portraits/thumbs/p-55.jpg"
       },
       {
-        "full": "/photos/portraits/p-58.jpg",
-        "thumb": "/photos/portraits/thumbs/p-58.jpg"
+        "full": "photos/portraits/p-58.jpg",
+        "thumb": "photos/portraits/thumbs/p-58.jpg"
       },
       {
-        "full": "/photos/portraits/p-59.jpg",
-        "thumb": "/photos/portraits/thumbs/p-59.jpg"
+        "full": "photos/portraits/p-59.jpg",
+        "thumb": "photos/portraits/thumbs/p-59.jpg"
       },
       {
-        "full": "/photos/portraits/p-6.jpg",
-        "thumb": "/photos/portraits/thumbs/p-6.jpg"
+        "full": "photos/portraits/p-6.jpg",
+        "thumb": "photos/portraits/thumbs/p-6.jpg"
       },
       {
-        "full": "/photos/portraits/p-60.jpg",
-        "thumb": "/photos/portraits/thumbs/p-60.jpg"
+        "full": "photos/portraits/p-60.jpg",
+        "thumb": "photos/portraits/thumbs/p-60.jpg"
       },
       {
-        "full": "/photos/portraits/p-61.jpg",
-        "thumb": "/photos/portraits/thumbs/p-61.jpg"
+        "full": "photos/portraits/p-61.jpg",
+        "thumb": "photos/portraits/thumbs/p-61.jpg"
       },
       {
-        "full": "/photos/portraits/p-63.jpg",
-        "thumb": "/photos/portraits/thumbs/p-63.jpg"
+        "full": "photos/portraits/p-63.jpg",
+        "thumb": "photos/portraits/thumbs/p-63.jpg"
       },
       {
-        "full": "/photos/portraits/p-64.jpg",
-        "thumb": "/photos/portraits/thumbs/p-64.jpg"
+        "full": "photos/portraits/p-64.jpg",
+        "thumb": "photos/portraits/thumbs/p-64.jpg"
       },
       {
-        "full": "/photos/portraits/p-65.jpg",
-        "thumb": "/photos/portraits/thumbs/p-65.jpg"
+        "full": "photos/portraits/p-65.jpg",
+        "thumb": "photos/portraits/thumbs/p-65.jpg"
       },
       {
-        "full": "/photos/portraits/p-7.jpg",
-        "thumb": "/photos/portraits/thumbs/p-7.jpg"
+        "full": "photos/portraits/p-7.jpg",
+        "thumb": "photos/portraits/thumbs/p-7.jpg"
       },
       {
-        "full": "/photos/portraits/p-8.jpg",
-        "thumb": "/photos/portraits/thumbs/p-8.jpg"
+        "full": "photos/portraits/p-8.jpg",
+        "thumb": "photos/portraits/thumbs/p-8.jpg"
       },
       {
-        "full": "/photos/portraits/p-9.jpg",
-        "thumb": "/photos/portraits/thumbs/p-9.jpg"
+        "full": "photos/portraits/p-9.jpg",
+        "thumb": "photos/portraits/thumbs/p-9.jpg"
       },
       {
-        "full": "/photos/portraits/p2.jpg",
-        "thumb": "/photos/portraits/thumbs/p2.jpg"
+        "full": "photos/portraits/p2.jpg",
+        "thumb": "photos/portraits/thumbs/p2.jpg"
       },
       {
-        "full": "/photos/portraits/p3.jpg",
-        "thumb": "/photos/portraits/thumbs/p3.jpg"
+        "full": "photos/portraits/p3.jpg",
+        "thumb": "photos/portraits/thumbs/p3.jpg"
       }
     ],
     "still-life": [
       {
-        "full": "/photos/still-life/l-1.jpg",
-        "thumb": "/photos/still-life/thumbs/l-1.jpg"
+        "full": "photos/still-life/l-1.jpg",
+        "thumb": "photos/still-life/thumbs/l-1.jpg"
       },
       {
-        "full": "/photos/still-life/l-10.jpg",
-        "thumb": "/photos/still-life/thumbs/l-10.jpg"
+        "full": "photos/still-life/l-10.jpg",
+        "thumb": "photos/still-life/thumbs/l-10.jpg"
       },
       {
-        "full": "/photos/still-life/l-11.jpg",
-        "thumb": "/photos/still-life/thumbs/l-11.jpg"
+        "full": "photos/still-life/l-11.jpg",
+        "thumb": "photos/still-life/thumbs/l-11.jpg"
       },
       {
-        "full": "/photos/still-life/l-12.jpg",
-        "thumb": "/photos/still-life/thumbs/l-12.jpg"
+        "full": "photos/still-life/l-12.jpg",
+        "thumb": "photos/still-life/thumbs/l-12.jpg"
       },
       {
-        "full": "/photos/still-life/l-13.jpg",
-        "thumb": "/photos/still-life/thumbs/l-13.jpg"
+        "full": "photos/still-life/l-13.jpg",
+        "thumb": "photos/still-life/thumbs/l-13.jpg"
       },
       {
-        "full": "/photos/still-life/l-14.jpg",
-        "thumb": "/photos/still-life/thumbs/l-14.jpg"
+        "full": "photos/still-life/l-14.jpg",
+        "thumb": "photos/still-life/thumbs/l-14.jpg"
       },
       {
-        "full": "/photos/still-life/l-15.jpg",
-        "thumb": "/photos/still-life/thumbs/l-15.jpg"
+        "full": "photos/still-life/l-15.jpg",
+        "thumb": "photos/still-life/thumbs/l-15.jpg"
       },
       {
-        "full": "/photos/still-life/l-16.jpg",
-        "thumb": "/photos/still-life/thumbs/l-16.jpg"
+        "full": "photos/still-life/l-16.jpg",
+        "thumb": "photos/still-life/thumbs/l-16.jpg"
       },
       {
-        "full": "/photos/still-life/l-17.jpg",
-        "thumb": "/photos/still-life/thumbs/l-17.jpg"
+        "full": "photos/still-life/l-17.jpg",
+        "thumb": "photos/still-life/thumbs/l-17.jpg"
       },
       {
-        "full": "/photos/still-life/l-18.jpg",
-        "thumb": "/photos/still-life/thumbs/l-18.jpg"
+        "full": "photos/still-life/l-18.jpg",
+        "thumb": "photos/still-life/thumbs/l-18.jpg"
       },
       {
-        "full": "/photos/still-life/l-19.jpg",
-        "thumb": "/photos/still-life/thumbs/l-19.jpg"
+        "full": "photos/still-life/l-19.jpg",
+        "thumb": "photos/still-life/thumbs/l-19.jpg"
       },
       {
-        "full": "/photos/still-life/l-2.jpg",
-        "thumb": "/photos/still-life/thumbs/l-2.jpg"
+        "full": "photos/still-life/l-2.jpg",
+        "thumb": "photos/still-life/thumbs/l-2.jpg"
       },
       {
-        "full": "/photos/still-life/l-20.jpg",
-        "thumb": "/photos/still-life/thumbs/l-20.jpg"
+        "full": "photos/still-life/l-20.jpg",
+        "thumb": "photos/still-life/thumbs/l-20.jpg"
       },
       {
-        "full": "/photos/still-life/l-21.jpg",
-        "thumb": "/photos/still-life/thumbs/l-21.jpg"
+        "full": "photos/still-life/l-21.jpg",
+        "thumb": "photos/still-life/thumbs/l-21.jpg"
       },
       {
-        "full": "/photos/still-life/l-22.jpg",
-        "thumb": "/photos/still-life/thumbs/l-22.jpg"
+        "full": "photos/still-life/l-22.jpg",
+        "thumb": "photos/still-life/thumbs/l-22.jpg"
       },
       {
-        "full": "/photos/still-life/l-23.jpg",
-        "thumb": "/photos/still-life/thumbs/l-23.jpg"
+        "full": "photos/still-life/l-23.jpg",
+        "thumb": "photos/still-life/thumbs/l-23.jpg"
       },
       {
-        "full": "/photos/still-life/l-24.jpg",
-        "thumb": "/photos/still-life/thumbs/l-24.jpg"
+        "full": "photos/still-life/l-24.jpg",
+        "thumb": "photos/still-life/thumbs/l-24.jpg"
       },
       {
-        "full": "/photos/still-life/l-25.jpg",
-        "thumb": "/photos/still-life/thumbs/l-25.jpg"
+        "full": "photos/still-life/l-25.jpg",
+        "thumb": "photos/still-life/thumbs/l-25.jpg"
       },
       {
-        "full": "/photos/still-life/l-26.jpg",
-        "thumb": "/photos/still-life/thumbs/l-26.jpg"
+        "full": "photos/still-life/l-26.jpg",
+        "thumb": "photos/still-life/thumbs/l-26.jpg"
       },
       {
-        "full": "/photos/still-life/l-27.jpg",
-        "thumb": "/photos/still-life/thumbs/l-27.jpg"
+        "full": "photos/still-life/l-27.jpg",
+        "thumb": "photos/still-life/thumbs/l-27.jpg"
       },
       {
-        "full": "/photos/still-life/l-28.jpg",
-        "thumb": "/photos/still-life/thumbs/l-28.jpg"
+        "full": "photos/still-life/l-28.jpg",
+        "thumb": "photos/still-life/thumbs/l-28.jpg"
       },
       {
-        "full": "/photos/still-life/l-29.jpg",
-        "thumb": "/photos/still-life/thumbs/l-29.jpg"
+        "full": "photos/still-life/l-29.jpg",
+        "thumb": "photos/still-life/thumbs/l-29.jpg"
       },
       {
-        "full": "/photos/still-life/l-3.jpg",
-        "thumb": "/photos/still-life/thumbs/l-3.jpg"
+        "full": "photos/still-life/l-3.jpg",
+        "thumb": "photos/still-life/thumbs/l-3.jpg"
       },
       {
-        "full": "/photos/still-life/l-30.jpg",
-        "thumb": "/photos/still-life/thumbs/l-30.jpg"
+        "full": "photos/still-life/l-30.jpg",
+        "thumb": "photos/still-life/thumbs/l-30.jpg"
       },
       {
-        "full": "/photos/still-life/l-31.jpg",
-        "thumb": "/photos/still-life/thumbs/l-31.jpg"
+        "full": "photos/still-life/l-31.jpg",
+        "thumb": "photos/still-life/thumbs/l-31.jpg"
       },
       {
-        "full": "/photos/still-life/l-32.jpg",
-        "thumb": "/photos/still-life/thumbs/l-32.jpg"
+        "full": "photos/still-life/l-32.jpg",
+        "thumb": "photos/still-life/thumbs/l-32.jpg"
       },
       {
-        "full": "/photos/still-life/l-33.jpg",
-        "thumb": "/photos/still-life/thumbs/l-33.jpg"
+        "full": "photos/still-life/l-33.jpg",
+        "thumb": "photos/still-life/thumbs/l-33.jpg"
       },
       {
-        "full": "/photos/still-life/l-34.jpg",
-        "thumb": "/photos/still-life/thumbs/l-34.jpg"
+        "full": "photos/still-life/l-34.jpg",
+        "thumb": "photos/still-life/thumbs/l-34.jpg"
       },
       {
-        "full": "/photos/still-life/l-35.jpg",
-        "thumb": "/photos/still-life/thumbs/l-35.jpg"
+        "full": "photos/still-life/l-35.jpg",
+        "thumb": "photos/still-life/thumbs/l-35.jpg"
       },
       {
-        "full": "/photos/still-life/l-4.jpg",
-        "thumb": "/photos/still-life/thumbs/l-4.jpg"
+        "full": "photos/still-life/l-4.jpg",
+        "thumb": "photos/still-life/thumbs/l-4.jpg"
       },
       {
-        "full": "/photos/still-life/l-5.jpg",
-        "thumb": "/photos/still-life/thumbs/l-5.jpg"
+        "full": "photos/still-life/l-5.jpg",
+        "thumb": "photos/still-life/thumbs/l-5.jpg"
       },
       {
-        "full": "/photos/still-life/l-6.jpg",
-        "thumb": "/photos/still-life/thumbs/l-6.jpg"
+        "full": "photos/still-life/l-6.jpg",
+        "thumb": "photos/still-life/thumbs/l-6.jpg"
       },
       {
-        "full": "/photos/still-life/l-7.jpg",
-        "thumb": "/photos/still-life/thumbs/l-7.jpg"
+        "full": "photos/still-life/l-7.jpg",
+        "thumb": "photos/still-life/thumbs/l-7.jpg"
       },
       {
-        "full": "/photos/still-life/l-8.jpg",
-        "thumb": "/photos/still-life/thumbs/l-8.jpg"
+        "full": "photos/still-life/l-8.jpg",
+        "thumb": "photos/still-life/thumbs/l-8.jpg"
       },
       {
-        "full": "/photos/still-life/l-9.jpg",
-        "thumb": "/photos/still-life/thumbs/l-9.jpg"
+        "full": "photos/still-life/l-9.jpg",
+        "thumb": "photos/still-life/thumbs/l-9.jpg"
       }
     ],
     "landscapes": [
       {
-        "full": "/photos/landscapes/l-1.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-1.jpg"
+        "full": "photos/landscapes/l-1.jpg",
+        "thumb": "photos/landscapes/thumbs/l-1.jpg"
       },
       {
-        "full": "/photos/landscapes/l-10.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-10.jpg"
+        "full": "photos/landscapes/l-10.jpg",
+        "thumb": "photos/landscapes/thumbs/l-10.jpg"
       },
       {
-        "full": "/photos/landscapes/l-11.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-11.jpg"
+        "full": "photos/landscapes/l-11.jpg",
+        "thumb": "photos/landscapes/thumbs/l-11.jpg"
       },
       {
-        "full": "/photos/landscapes/l-12.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-12.jpg"
+        "full": "photos/landscapes/l-12.jpg",
+        "thumb": "photos/landscapes/thumbs/l-12.jpg"
       },
       {
-        "full": "/photos/landscapes/l-13.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-13.jpg"
+        "full": "photos/landscapes/l-13.jpg",
+        "thumb": "photos/landscapes/thumbs/l-13.jpg"
       },
       {
-        "full": "/photos/landscapes/l-14.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-14.jpg"
+        "full": "photos/landscapes/l-14.jpg",
+        "thumb": "photos/landscapes/thumbs/l-14.jpg"
       },
       {
-        "full": "/photos/landscapes/l-15.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-15.jpg"
+        "full": "photos/landscapes/l-15.jpg",
+        "thumb": "photos/landscapes/thumbs/l-15.jpg"
       },
       {
-        "full": "/photos/landscapes/l-16.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-16.jpg"
+        "full": "photos/landscapes/l-16.jpg",
+        "thumb": "photos/landscapes/thumbs/l-16.jpg"
       },
       {
-        "full": "/photos/landscapes/l-17.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-17.jpg"
+        "full": "photos/landscapes/l-17.jpg",
+        "thumb": "photos/landscapes/thumbs/l-17.jpg"
       },
       {
-        "full": "/photos/landscapes/l-18.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-18.jpg"
+        "full": "photos/landscapes/l-18.jpg",
+        "thumb": "photos/landscapes/thumbs/l-18.jpg"
       },
       {
-        "full": "/photos/landscapes/l-19.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-19.jpg"
+        "full": "photos/landscapes/l-19.jpg",
+        "thumb": "photos/landscapes/thumbs/l-19.jpg"
       },
       {
-        "full": "/photos/landscapes/l-2.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-2.jpg"
+        "full": "photos/landscapes/l-2.jpg",
+        "thumb": "photos/landscapes/thumbs/l-2.jpg"
       },
       {
-        "full": "/photos/landscapes/l-20.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-20.jpg"
+        "full": "photos/landscapes/l-20.jpg",
+        "thumb": "photos/landscapes/thumbs/l-20.jpg"
       },
       {
-        "full": "/photos/landscapes/l-21.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-21.jpg"
+        "full": "photos/landscapes/l-21.jpg",
+        "thumb": "photos/landscapes/thumbs/l-21.jpg"
       },
       {
-        "full": "/photos/landscapes/l-22.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-22.jpg"
+        "full": "photos/landscapes/l-22.jpg",
+        "thumb": "photos/landscapes/thumbs/l-22.jpg"
       },
       {
-        "full": "/photos/landscapes/l-3.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-3.jpg"
+        "full": "photos/landscapes/l-3.jpg",
+        "thumb": "photos/landscapes/thumbs/l-3.jpg"
       },
       {
-        "full": "/photos/landscapes/l-4.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-4.jpg"
+        "full": "photos/landscapes/l-4.jpg",
+        "thumb": "photos/landscapes/thumbs/l-4.jpg"
       },
       {
-        "full": "/photos/landscapes/l-5.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-5.jpg"
+        "full": "photos/landscapes/l-5.jpg",
+        "thumb": "photos/landscapes/thumbs/l-5.jpg"
       },
       {
-        "full": "/photos/landscapes/l-7.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-7.jpg"
+        "full": "photos/landscapes/l-7.jpg",
+        "thumb": "photos/landscapes/thumbs/l-7.jpg"
       },
       {
-        "full": "/photos/landscapes/l-8.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-8.jpg"
+        "full": "photos/landscapes/l-8.jpg",
+        "thumb": "photos/landscapes/thumbs/l-8.jpg"
       },
       {
-        "full": "/photos/landscapes/l-9.jpg",
-        "thumb": "/photos/landscapes/thumbs/l-9.jpg"
+        "full": "photos/landscapes/l-9.jpg",
+        "thumb": "photos/landscapes/thumbs/l-9.jpg"
       }
     ]
   }
